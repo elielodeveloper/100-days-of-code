@@ -17,3 +17,14 @@
 **Today´s Progress**:Today I´d just dived into the applied visual design subsection from responsive web design course at freecodecamp.
 
 **Thoughts:** In my opinion, one of the most important things is to clearly understand the CSS Box Model. Actually, learning this section still in progress.
+
+### Day 4: November 12, 2018
+
+**Today´s Progress**:Today I´ve learned more about "Applied Visual Design" from FreeCodeCamp´s course.
+
+**Thoughts:** In my opinion, there were three important topics:
+Use the CSS Transform scale Property to Scale an Element on Hover
+Use the CSS Transform Property skewX to Skew an Element Along the X-Axis and Y-Axis
+Use the Z-index
+
+With the aim of getting more practice, I´ve just dived into drawing pure CSS images.
