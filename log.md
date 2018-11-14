@@ -28,3 +28,9 @@ Use the CSS Transform Property skewX to Skew an Element Along the X-Axis and Y-A
 Use the Z-index
 
 With the aim of getting more practice, I´ve just dived into drawing pure CSS images.
+
+### Day 3: November 13, 2018
+
+**Today´s Progress**:Today I´ve finally finished the "Applied Visual Design" module, and I just get started with "Applied Accessibility". From responsive web design course at freecodecamp.
+
+**Thoughts:** In my opinion, today was kinda hard, because dealing with CSS transition is a new topic. I just need to practice more.
