@@ -29,8 +29,14 @@ Use the Z-index
 
 With the aim of getting more practice, I´ve just dived into drawing pure CSS images.
 
-### Day 3: November 13, 2018
+### Day 5: November 13, 2018
 
 **Today´s Progress**:Today I´ve finally finished the "Applied Visual Design" module, and I just get started with "Applied Accessibility". From responsive web design course at freecodecamp.
 
 **Thoughts:** In my opinion, today was kinda hard, because dealing with CSS transition is a new topic. I just need to practice more.
+
+### Day 1: November 14, 2018 [Reboot]
+
+**Today´s Progress**:According to the rules I´ve missed two days in a row, so I´d just restarted the count 😜. Today I´ve done with "Applied Accessibility" module from @freeCodeCamp. Also, I tried to draw a pikachu using Pure CSS.
+
+**Thoughts:** In my opinion, the most important subject of today was how to build a page accessible for people that need special care. Like how to set contrast for color blind people.
