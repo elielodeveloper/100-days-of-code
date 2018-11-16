@@ -40,3 +40,9 @@ With the aim of getting more practice, I´ve just dived into drawing pure CSS im
 **Today´s Progress**:According to the rules I´ve missed two days in a row, so I´d just restarted the count 😜. Today I´ve done with "Applied Accessibility" module from @freeCodeCamp. Also, I tried to draw a pikachu using Pure CSS.
 
 **Thoughts:** In my opinion, the most important subject of today was how to build a page accessible for people that need special care. Like how to set contrast for color blind people.
+
+### Day 2: November 15, 2018
+
+**Today´s Progress**:Today I´ve done with "Responsible Web Design Principles" and "CSS flexbox" modules from @freeCodeCamp. Also, I tried to draw some Pure CSS pic but I didn't well succeed..
+
+**Thoughts:** Need to revise the Responsible Web Design Principles. It seems to be really important
