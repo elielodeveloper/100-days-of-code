@@ -46,3 +46,9 @@ With the aim of getting more practice, I´ve just dived into drawing pure CSS im
 **Today´s Progress**:Today I´ve done with "Responsible Web Design Principles" and "CSS flexbox" modules from @freeCodeCamp. Also, I tried to draw some Pure CSS pic but I didn't well succeed..
 
 **Thoughts:** Need to revise the Responsible Web Design Principles. It seems to be really important
+
+### Day 3: November 16, 2018
+
+**Today´s Progress**: Today I've done the "CSS flexbox" module and get the started with "CSS grid" from @freeCodeCamp. Also, I just had restarted a React course from Udemy made by @ste_grider !!!
+
+**Thoughts:** ...
