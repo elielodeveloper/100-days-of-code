@@ -52,3 +52,16 @@ With the aim of getting more practice, I´ve just dived into drawing pure CSS im
 **Today´s Progress**: Today I've done the "CSS flexbox" module and get the started with "CSS grid" from @freeCodeCamp. Also, I just had restarted a React course from Udemy made by @ste_grider !!!
 
 **Thoughts:** ...
+
+### Day 4: November 17, 2018
+
+**Today´s Progress**: Today I've done the "CSS Grid"Module from @freeCodeCamp !!! Actually, I'm feeling really excited 'cause I'm near to get my first freeCodeCamp certification!!!🤗  Also I've done some progress at React course from Udemy
+
+**Thoughts:** ...
+
+### Day 5: November 18, 2018
+
+**Today´s Progress**: Although I've gotten some progress studying React at udemy's course I've struggled with freecodecamp "responsive web design projects".
+
+**Thoughts:** Maybe it will be good to revise some fundamentals.
+
