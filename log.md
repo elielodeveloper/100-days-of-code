@@ -65,3 +65,9 @@ With the aim of getting more practice, I´ve just dived into drawing pure CSS im
 
 **Thoughts:** Maybe it will be good to revise some fundamentals.
 
+### Day 6: November 19, 2018
+
+**Today´s Progress**: Today I've kept studying React. It was done 2 little projects.The first one to dynamically styling an application according with your latitude and month. The second one, aims to consult unsplash's api.
+
+**Thoughts:** Need to revise JavaScript Fundamentals.
+
